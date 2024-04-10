@@ -1,0 +1,1 @@
+This repository contains scripts and resources used in the "Building a Full-Scale IoT Infrastructure with AWS" series, where we focus on creating a scalable and secure IoT infrastructure tailored for Smart Home applications.
